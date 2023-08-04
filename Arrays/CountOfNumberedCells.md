@@ -11,8 +11,10 @@ Nurikabe logical game (sometimes called Islands in the Stream) is a binary deter
 Unnumbered cells start out grey and cycle through white and black when clicked. Initially numbered cells are white in color.
 
 #### Problem Statement:
-
 Write a program to find the count of numbered cells, given a valid initial board configuration. Below figure is the sample valid initial configuration.
+
+![image](https://github.com/king-ronin04/CPP-Learning/assets/103017387/1b2c2586-c3ff-4e21-bb34-27b405f298c0)
+
 
 #### Input format :
 First line of the input is an integer N that gives the number of rows and columns of the grid.
