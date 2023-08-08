@@ -6,6 +6,7 @@ The much awaited event at the entertainment industry every year is the "Screen A
 
 For this purpose, the Event development team are in the task to find if N dots can make a right triangle or not (all N dots must be used). Given N dots, we can make it look like a Right Triangle (45-45-90 triangle) exactly with N dots. Rearrange the given N dots, like this:
 
+![image](https://github.com/king-ronin04/CPP-Learning/assets/103017387/874fadd2-901c-4627-817f-1c143a42cc48)
 
 
 Your task is to help the team.In the Main method, obtain input from the user in the console and display "Yes" if you can make a right triangle using N dots, otherwise "No" by calling the find method
