@@ -6,6 +6,7 @@ Junior Coders Academy is a unique learning Centre that offers a creative and ins
 
 Williams, the proprietor of the Academy and the mentor for the students started his first session of the day with the interesting programming concept of using Functions. Post an interactive session of learning through design, Williams gave the students a small self-activity to verify from two integer numbers A and B, if B corresponds to the last digit/digits of A. Williams wanted you to write the program for evaluating the students’ codes.
 
+![image](https://github.com/king-ronin04/CPP-Learning/assets/103017387/b5a84d3b-e06b-4396-81b4-e856e8e33dd8)
 
 
 In the Main function, obtain input from the user in the console and display "Yes" if the second number B is the last digits of A, else Print "No" by calling the findValue method 
