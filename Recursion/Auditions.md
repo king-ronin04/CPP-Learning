@@ -12,6 +12,7 @@ Large mass of people gathered at the venue. Based on the selection procedure for
 
 To help them in the selection procedure, the organizers approached you to write a recursive method for determining the position of that final person in the original queue.
 
+![image](https://github.com/king-ronin04/CPP-Learning/assets/103017387/0e6c2e12-8e28-43b5-a95d-0cc893a45212)
 
 
 In the Main function, obtain input from the user in the console and display the position(original queue) of that person who is left by calling the findPos method 
